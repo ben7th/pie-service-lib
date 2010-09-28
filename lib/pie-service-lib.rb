@@ -1,0 +1,1 @@
+require 'pie-service-lib/base_metal'
